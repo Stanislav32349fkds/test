@@ -60,5 +60,4 @@ let incr = 10,
 
     console.log(isChecked && isClose);// Оператор И
     console.log(isChecked || isClose);// Оператор ИЛИ
-    a= 5;
-    console.log(a);//Сравнение по типам данных
+    
